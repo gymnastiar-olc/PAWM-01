@@ -1,0 +1,43 @@
+{
+    "bahasa": {
+      "arti": "sistem lambang bunyi yang arbitrer, digunakan oleh para anggota suatu masyarakat untuk bekerja sama, berinteraksi, dan mengidentifikasi diri",
+      "jenis_kata": "kata benda"
+    },
+    "kata": {
+      "arti": "unsur bahasa yang diucapkan atau dituliskan yang merupakan perwujudan kesatuan perasaan dan pikiran",
+      "jenis_kata": "kata benda"
+    },
+    "komputer": {
+      "arti": "alat elektronik yang dapat menerima, memproses, dan menyimpan data",
+      "jenis_kata": "kata benda"
+    },
+    "rumah": {
+      "arti": "bangunan untuk tempat tinggal",
+      "jenis_kata": "kata benda"
+    },
+    "makan": {
+      "arti": "memasukkan makanan ke dalam mulut dan menelannya",
+      "jenis_kata": "kata kerja"
+    },
+    "minum": {
+      "arti": "memasukkan cairan ke dalam mulut dan menelannya",
+      "jenis_kata": "kata kerja"
+    },
+    "sekolah": {
+      "arti": "institusi pendidikan tempat proses belajar-mengajar berlangsung",
+      "jenis_kata": "kata benda"
+    },
+    "guru": {
+      "arti": "orang yang memberikan pendidikan atau pelajaran di sekolah",
+      "jenis_kata": "kata benda"
+    },
+    "mobil": {
+      "arti": "kendaraan bermotor beroda empat yang digunakan untuk transportasi",
+      "jenis_kata": "kata benda"
+    },
+    "jalan": {
+      "arti": "permukaan yang digunakan untuk berjalan atau berkendara",
+      "jenis_kata": "kata benda"
+    }
+  }
+  

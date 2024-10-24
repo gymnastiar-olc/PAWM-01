@@ -1,0 +1,86 @@
+/* Global Styling */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif; /* Font Poppins untuk tampilan modern */
+}
+
+body {
+    background-color: #f0f3f4;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background-color: #fff;
+    padding: 50px;
+    border-radius: 12px;
+    box-shadow: 0px 20px 50px rgba(0, 0, 0, 0.1);
+    width: 90vmin;
+}
+
+.search-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.search-box input {
+    padding: 10px 20px;
+    width: 75%;
+    border: 2px solid #bdc3c7;
+    border-radius: 50px;
+    outline: none;
+    font-size: 16px;
+    transition: border 0.3s ease;
+}
+
+.search-box input:focus {
+    border-color: #3498db;
+}
+
+.search-box button {
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+.search-box button:hover {
+    background-color: #2980b9;
+}
+
+.result h3 {
+    font-size: 24px;
+    color: #2C3E50;
+    margin-bottom: 10px;
+}
+
+.result .details {
+    display: flex;
+    gap: 10px;
+    font-size: 14px;
+    color: #7f8c8d;
+    margin-bottom: 20px;
+}
+
+.word-meaning {
+    font-size: 18px;
+    color: #34495e;
+    margin-bottom: 20px;
+}
+
+.error {
+    color: #e74c3c;
+    font-size: 20px;
+    text-align: center;
+}
